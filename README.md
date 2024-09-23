@@ -1,2 +1,2 @@
 # LLM_Z2H
-for me
+refer to https://github.com/YutaroOgawa/pytorch_advanced.git
